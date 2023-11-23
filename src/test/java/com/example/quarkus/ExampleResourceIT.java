@@ -1,4 +1,4 @@
-package br.com.leandrofabriciosarmento;
+package com.example.quarkus;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
